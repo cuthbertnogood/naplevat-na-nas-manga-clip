@@ -48,9 +48,9 @@
 
 ## Видео
 
-▶️ Полный клип (MP4, ~52 МБ) — в релизе: **RELEASE_URL**
+▶️ Полный клип (MP4, ~52 МБ) — в релизе: **https://github.com/cuthbertnogood/naplevat-na-nas-manga-clip/releases/tag/v1.0**
 
-Прямая ссылка на файл: ASSET_URL
+Прямая ссылка на файл: https://github.com/cuthbertnogood/naplevat-na-nas-manga-clip/releases/download/v1.0/naplevat-na-nas-clip.mp4
 
 ## Авторство
 
